@@ -11,7 +11,7 @@
 ---
 
 ### Connect with me:
-[![LINKEDIN](https://shields.io)](YOUR_LINKEDIN_URL)
+[![LINKEDIN](https://shields.io)](www.linkedin.com/in/chamodya-fernando-95790a3bb)
 
 ---
 
